@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       domain="akash-chatterjee.us.auth0.com"
       clientId="kvy9yANsxLgicMqc8P2tzC4VAAuYPIT6"
       authorizationParams={{
-        redirect_uri: "http://localhost:5173",
+        redirect_uri: "https://homyz-real-estate-lemon.vercel.app",
       }}
       audience="http://localhost:8000"
       scope="openid profile email"
